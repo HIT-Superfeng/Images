@@ -1,0 +1,11 @@
+===================================
+Configuration Memory information
+===================================
+File Format        BIN
+Interface          SPIX4
+Size               256M
+Start Address      0x00000000
+End Address        0x0FFFFFFF
+
+Addr1         Addr2         Date                    File(s)
+0x00000000    0x016BCC43    Nov 25 12:12:54 2018    /home/yao/snap_lab/snap/hardware/build/Images/fw_2018_1125_1100_hdl_rsa_noSDRAM_S241_1.bit
